@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ride Reader</string>
+    <string name="service_description">Rapido की स्क्रीन पर आई राइड का पिकअप, ड्रॉप और किलोमीटर बोलकर सुनाती है. यह कुछ भी क्लिक या accept नहीं करती.</string>
+</resources>
